@@ -6,8 +6,8 @@ A simple stickman platforming game created using the OpenGL library in Python.
 
 ![Initial Game Setup](Map.png)
 
-**Reach the top and *WIN*.**
+**Reach the top to *WIN*.**
 
-**Fall to your demise and *GAME OVER.***
+**Or, fall to your demise for *GAME OVER.***
 
 
