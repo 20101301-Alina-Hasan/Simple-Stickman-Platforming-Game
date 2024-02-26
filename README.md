@@ -9,10 +9,10 @@ A simple stickman platforming game created using the OpenGL library and as well 
 ![Initial Game Setup](Map.png)
 
 **Input Keys**:
-* *W* up
-* *A* left
-* *S* right
-* *D* down
+* *W*: up
+* *A*: left
+* *S*: right
+* *D*: down
 
 **Reach the top to *WIN*.**
 
