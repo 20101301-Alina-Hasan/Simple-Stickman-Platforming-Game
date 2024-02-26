@@ -4,7 +4,7 @@ A simple stickman platforming game created using the OpenGL library on Jupyter N
 
 
 
-**Initial Game Setup**:
+**Game Start**:
 
 ![Initial Game Setup](Map.png)
 
