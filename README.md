@@ -1,6 +1,7 @@
 # CSE423: Computer Graphics
 
-A simple stickman platforming game created using the OpenGL library on Jupyter Notebook. The initial concept is provided in '/Simple-Stickman-Platforming-Game/Project Proposal_Simple Stickman Platforming Game.pdf'
+A simple stickman platforming game created using the OpenGL library on Jupyter Notebook. The initial concept is provided in [Simplified Stickman Platforming Game Proposal](./Project%20Proposal_Simplified%20Stickman%20Platforming%20Game.pdf)
+
 
 
 **Initial Game Setup**:
