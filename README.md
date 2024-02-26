@@ -1,6 +1,6 @@
 # CSE423: Computer Graphics
 
-A simple stickman platforming game created using the OpenGL library in Python.
+A simple stickman platforming game created using the OpenGL library on Jupyter Notebook.
 
 **Initial Game Setup**:
 
