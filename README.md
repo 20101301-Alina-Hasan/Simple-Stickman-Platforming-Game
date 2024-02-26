@@ -14,8 +14,6 @@ A simple stickman platforming game created using the OpenGL library and the tran
 * *S*: right
 * *D*: down
 
-**Reach the top to *WIN*.**
-
-**Falling to your demise means *GAME OVER.***
+**Reach the top to *WIN*.** **Falling to your demise means *GAME OVER.***
 
 
